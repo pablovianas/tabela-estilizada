@@ -1,0 +1,15 @@
+.tabela{
+    color: #fff;
+}
+.produtos{
+    background-color: #424250;
+}
+.cabecalho-produtos-moda{
+    background-color:  #BB86FC;
+}
+.cabecalho-produtos-casa{
+    background-color:  #00C4B4;
+}
+.informacoes-produto, .descricao-produto{
+    padding: 5px;
+}
